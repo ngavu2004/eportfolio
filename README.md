@@ -1,7 +1,21 @@
-# Responsive Portfolio Website Alexa
-## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
-### Responsive Portfolio Website Alexa
-Responsive Portfolio Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Qualification, Services, Portfolio, Project in mind, Testimonial, Contact and Footer.
-Don't forget to join the channel for more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+# Welcome to my eportfolio!
+## Hi, I am Quynh Nga
+### 1. Basics information
+* Full name: Vu Thi Quynh Nga
+* DOB: February 2nd, 2004
+* Hobbies: coding, cooking, doing yoga
+* 3 objects describing myself: a pie, a pen, a water bottle
 
-![Resume cv](/preview.png)
+### 2. Skills
+#### Machine learning:
+* Python
+* Flask
+
+#### Web developing:
+* HTML
+* CSS
+* Javascript
+* Node Js
+* Vue Js
+
+
